@@ -1,0 +1,5 @@
+Web server is a piece of software designed to respond to a web client.
+
+NodeJS is a software acting as the server that receives the data from the form, processes it and sends it to the DB and vice versa.
+
+Not good for computers running heavy computations.
