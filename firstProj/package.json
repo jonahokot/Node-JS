@@ -1,19 +1,11 @@
 {
-  "name": "node-js",
+  "name": "firstproj",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TrudyCyns/Node-JS.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TrudyCyns/Node-JS/issues"
-  },
-  "homepage": "https://github.com/TrudyCyns/Node-JS#readme"
+  "license": "ISC"
 }
